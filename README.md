@@ -1,6 +1,6 @@
 # json_to_table_test_app
 
-A new Flutter application.
+json data to json table
 
 ## Getting Started
 
